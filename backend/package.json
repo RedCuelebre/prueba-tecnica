@@ -1,0 +1,14 @@
+
+{
+    "name": "visorimagenes",
+    "version": "1.0.0",
+    "description": "Backend para una imagenes web",
+    "main": "app.js",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongoose": "^5.13.9",
+        "bcryptjs": "^2.4.3",
+        "jsonwebtoken": "^8.5.1",
+        "dotenv": "^10.0.0"
+    }
+}
